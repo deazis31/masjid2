@@ -1,2 +1,1 @@
-# masjid2
-pemuda al ikhlas
+# al-ikhlas
